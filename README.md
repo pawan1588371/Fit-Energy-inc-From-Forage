@@ -15,7 +15,7 @@ Key responsibilities included:
 * Computing Taxable Income
 * Preparing a professional summary of tax adjustments
 
-  ## What I Did
+ ## What I Did
   
 - Reviewed financial statements (income statement, balance sheet, notes).  
 - Identified key audit risks and high‑risk accounts.  
@@ -33,12 +33,19 @@ Key responsibilities included:
 * Financial statement analysis
 * Audit risk assessment
 
-  ## How This Relates to Real Audit/Tax Work
+## How This Relates to Real Audit/Tax Work
   
   - In practice, similar work would involve:  
   - Materiality calculations, risk assessment, and audit planning.  
   - Testing of high‑risk accounts (revenue, tax, inventory, etc.).  
   - Coordination with management and tax teams to finalize tax expense.
+
+ ## Key Outcomes
+ 
+* Identified permanent and temporary book-to-tax differences
+* Calculated taxable income adjustments
+* Applied corporate tax rules to real-world scenarios
+* Prepared structured workpapers similar to audit documentation
   
 
 ## Repository Structure
@@ -64,15 +71,10 @@ Final_Output
 * GitHub
 * Tax Accounting Principles
   
-## Key Outcomes
 
-* Identified permanent and temporary book-to-tax differences
-* Calculated taxable income adjustments
-* Applied corporate tax rules to real-world scenarios
-* Prepared structured workpapers similar to audit documentation
   
 ## Author
 
 Pawan
-Aspiring Auditor / Tax Associate
+Aspiring Auditor / Tax Associate 
 
