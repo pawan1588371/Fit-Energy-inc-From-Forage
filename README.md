@@ -39,7 +39,7 @@ Key responsibilities included:
   - Materiality calculations, risk assessment, and audit planning.  
   - Testing of high‑risk accounts (revenue, tax, inventory, etc.).  
   - Coordination with management and tax teams to finalize tax expense.
-  - # Fit‑Energy Inc. – Audit & Tax Simulation (Forage)
+  
 
 ## Repository Structure
 
