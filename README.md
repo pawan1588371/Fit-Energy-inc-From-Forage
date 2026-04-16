@@ -1,10 +1,12 @@
-# PwC Tax Job Simulation — Fit Energy Inc.
+# Corporate Tax Adjustment Project — Fit Energy Inc.
+(PwC Tax Virtual Experience Program)
 
 This repository contains my work from the PwC US Tax Virtual Job Simulation completed on Forage.
 
 ## Project Overview
 
 In this simulation, I acted as a Tax Associate responsible for preparing a corporate tax return for a client.
+This project demonstrates practical tax and audit skills applied to a corporate client scenario.
 
 Key responsibilities included:
 
@@ -43,7 +45,14 @@ Final_Output
 * Microsoft Excel
 * GitHub
 * Tax Accounting Principles
+  
+## Key Outcomes
 
+* Identified permanent and temporary book-to-tax differences
+* Calculated taxable income adjustments
+* Applied corporate tax rules to real-world scenarios
+* Prepared structured workpapers similar to audit documentation
+  
 ## Author
 
 Pawan
