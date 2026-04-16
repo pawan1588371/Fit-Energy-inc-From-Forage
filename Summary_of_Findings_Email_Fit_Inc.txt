@@ -1,0 +1,50 @@
+Subject: Summary of Tax Return Findings & Automation Recommendations – Fit Energy Inc.
+
+Dear Fit Energy Inc. Management Team,
+
+I hope this message finds you well. I am writing to summarize the procedures we executed during your tax engagement and to share our key findings, along with recommendations on how automation tools can add value to your future tax compliance process.
+
+---
+
+SUMMARY OF PROCEDURES EXECUTED
+
+As part of preparing Fit Energy Inc.'s tax return workpaper, our team performed the following procedures:
+
+1. Reviewed financial statements and supporting documentation to identify all taxable and non-taxable items.
+2. Reconciled book income to taxable income by identifying and adjusting for permanent and temporary differences (e.g., depreciation differences, non-deductible expenses, deferred tax items).
+3. Calculated taxable income in accordance with applicable tax regulations.
+4. Prepared and reviewed the tax return workpaper to ensure accuracy and completeness.
+5. Verified that all deductions and credits claimed were properly supported and documented.
+
+---
+
+KEY FINDINGS
+
+- Taxable income was determined after making the necessary book-to-tax adjustments.
+- All applicable deductions were identified and applied to minimize tax liability within the bounds of the law.
+- No material discrepancies or errors were identified during the review process.
+
+---
+
+AUTOMATION TOOL RECOMMENDATIONS
+
+At PwC, we continuously look for ways to improve the efficiency and accuracy of tax compliance engagements. Below are 1–2 ways automation tools could be implemented to benefit Fit Energy Inc.'s tax process:
+
+1. ALTERYX – Automated Data Reconciliation
+   Alteryx is a data analytics and automation platform that can blend, clean, and process large datasets without manual effort. For Fit Energy, Alteryx could be used to automate the book-to-tax reconciliation process. Instead of manually pulling data from financial systems and cross-referencing entries, Alteryx workflows can automatically extract, reconcile, and flag discrepancies — significantly reducing preparation time and the risk of human error.
+
+2. TABLEAU – Real-Time Tax Reporting & Visualization
+   Tableau is a data visualization tool that transforms complex datasets into interactive dashboards. For Fit Energy, Tableau could be used to create a real-time tax dashboard that tracks taxable income, deductions, and tax liabilities throughout the year. This would give management greater visibility into the company's tax position at any point in time, enabling more proactive tax planning rather than reactive year-end filings.
+
+These tools, used together or independently, can streamline your tax compliance process, reduce manual effort, improve accuracy, and allow your team to focus on higher-value strategic decisions.
+
+---
+
+We appreciate the opportunity to serve Fit Energy Inc. and look forward to continuing to add value to your tax function. Please do not hesitate to reach out if you have any questions regarding the findings or recommendations above.
+
+Best regards,
+
+[Your Name]
+Tax Associate | PwC
+[Your Email]
+[Your Phone Number]
